@@ -120,3 +120,7 @@ This repository contains derivative works of Apple's font data. **The
 letterforms, stroke data and design belong to Apple Inc.** This project is
 not affiliated with or endorsed by Apple. It is shared for **personal,
 non-commercial use** only. See [LICENSE](LICENSE).
+
+## Contributors
+
+Everyone credited so far: [CONTRIBUTORS.md](CONTRIBUTORS.md).
